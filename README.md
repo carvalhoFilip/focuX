@@ -1,5 +1,5 @@
 ## focusX
-Prototip to productive app like a Notion, Google Agenda...
+Prototip to productivity app like a Notion, Google Agenda...
 
 ## Getting Started
 
