@@ -1,6 +1,5 @@
-# telasvaga_estagio
-
-A new Flutter project.
+## focusX
+Prototip to productive app like a Notion, Google Agenda...
 
 ## Getting Started
 
