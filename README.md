@@ -1,5 +1,6 @@
 ## focusX
-Prototip to productivity app like a Notion, Google Agenda...
+Prototip to productivity app with Flutter
+-> like a Notion, Google Agenda...
 
 ## Getting Started
 
